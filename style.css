@@ -1,0 +1,16 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.counter-block{
+	max-width: 800px;
+	margin: 100px auto;
+	display: flex;
+	justify-content: space-between;
+}
+.count{
+	width: 40px;
+	height: 40px;
+	text-align: center;
+}
